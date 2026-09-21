@@ -1,3 +1,49 @@
 <resources>
     <string name="app_name">Gereamento_Automotivo</string>
+
+    <string name="btn_cadastrar_veiculo">Cadastrar Veículo</string>
+
+    <string name="titulo_cadastro_veiculo">Cadastro de Veículo</string>
+    <string name="label_apelido">Apelido</string>
+    <string name="label_modelo">Modelo</string>
+    <string name="label_km_atual">Km atual</string>
+    <string name="label_marca">Marca</string>
+    <string name="label_combustivel">Combustível preferencial</string>
+    <string name="radio_gasolina">Gasolina</string>
+    <string name="radio_etanol">Etanol</string>
+    <string name="radio_diesel">Diesel</string>
+    <string name="checkbox_em_uso">Veículo em uso atualmente</string>
+    <string name="btn_limpar">Limpar</string>
+    <string name="btn_salvar">Salvar</string>
+
+    <string name="toast_formulario_limpo">Formulário limpo</string>
+    <string name="erro_apelido_vazio">Informe o apelido do veículo</string>
+    <string name="erro_modelo_vazio">Informe o modelo do veículo</string>
+    <string name="erro_km_vazio">Informe a quilometragem atual</string>
+    <string name="erro_combustivel_nao_selecionado">Selecione o combustível preferencial</string>
+
+    <string name="marca_fiat">Fiat</string>
+    <string name="marca_chevrolet">Chevrolet</string>
+    <string name="marca_volkswagen">Volkswagen</string>
+    <string name="marca_ford">Ford</string>
+    <string name="marca_toyota">Toyota</string>
+    <string name="marca_outro">Outro</string>
+
+    <string name="titulo_manutencoes">Manutenções</string>
+
+    <string name="servico_troca_oleo">Troca de óleo</string>
+    <string name="servico_revisao_geral">Revisão geral</string>
+    <string name="servico_troca_pneus">Troca de pneus</string>
+    <string name="servico_alinhamento_balanceamento">Alinhamento e balanceamento</string>
+    <string name="servico_troca_filtro_ar">Troca de filtro de ar</string>
+    <string name="servico_troca_pastilhas_freio">Troca de pastilhas de freio</string>
+
+    <string name="servico_valor">Serviço: </string>
+    <string name="data_valor">Data: </string>
+    <string name="km_valor">Km: </string>
+    <string name="custo_valor">Custo: R$ </string>
+    <string name="proxima_troca_valor">Próxima troca (km): </string>
+
+    <string name="manutencao_de_tipo">Manutenção de tipo \"</string>
+    <string name="foi_clicada">\" foi clicada!</string>
 </resources>
