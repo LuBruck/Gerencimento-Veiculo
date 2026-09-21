@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="marcas_veiculo">
+        <item>@string/marca_fiat</item>
+        <item>@string/marca_chevrolet</item>
+        <item>@string/marca_volkswagen</item>
+        <item>@string/marca_ford</item>
+        <item>@string/marca_toyota</item>
+        <item>@string/marca_outro</item>
+    </string-array>
+
+    <string-array name="tipos_servico">
+        <item>@string/servico_troca_oleo</item>
+        <item>@string/servico_revisao_geral</item>
+        <item>@string/servico_troca_pneus</item>
+        <item>@string/servico_alinhamento_balanceamento</item>
+        <item>@string/servico_troca_filtro_ar</item>
+        <item>@string/servico_troca_pastilhas_freio</item>
+    </string-array>
+
+    <integer-array name="manutencoes_tipos">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>0</item>
+        <item>2</item>
+        <item>1</item>
+        <item>3</item>
+    </integer-array>
+
+    <string-array name="manutencoes_datas">
+        <item>15/01/2026</item>
+        <item>03/02/2026</item>
+        <item>20/02/2026</item>
+        <item>10/03/2026</item>
+        <item>28/03/2026</item>
+        <item>14/04/2026</item>
+        <item>02/05/2026</item>
+        <item>19/05/2026</item>
+        <item>07/06/2026</item>
+        <item>25/06/2026</item>
+    </string-array>
+
+    <integer-array name="manutencoes_kms">
+        <item>10000</item>
+        <item>20000</item>
+        <item>25000</item>
+        <item>30000</item>
+        <item>35000</item>
+        <item>40000</item>
+        <item>45000</item>
+        <item>50000</item>
+        <item>55000</item>
+        <item>60000</item>
+    </integer-array>
+
+    <string-array name="manutencoes_custos">
+        <item>150.00</item>
+        <item>450.00</item>
+        <item>1800.00</item>
+        <item>120.00</item>
+        <item>90.00</item>
+        <item>200.00</item>
+        <item>150.00</item>
+        <item>1900.00</item>
+        <item>450.00</item>
+        <item>110.00</item>
+    </string-array>
+
+    <integer-array name="manutencoes_km_proximas">
+        <item>20000</item>
+        <item>40000</item>
+        <item>45000</item>
+        <item>60000</item>
+        <item>55000</item>
+        <item>60000</item>
+        <item>55000</item>
+        <item>70000</item>
+        <item>75000</item>
+        <item>80000</item>
+    </integer-array>
+
+</resources>
