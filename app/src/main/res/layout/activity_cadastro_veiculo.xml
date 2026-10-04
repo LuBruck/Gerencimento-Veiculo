@@ -4,6 +4,7 @@
     android:id="@+id/scrollCadastroVeiculo"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
     tools:context=".CadastroVeiculoActivity">
 
     <LinearLayout
@@ -11,13 +12,6 @@
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:padding="16dp">
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="20sp"
-            android:textStyle="bold"
-            android:text="@string/titulo_cadastro_veiculo" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -105,29 +99,6 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="@string/checkbox_em_uso" />
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="24dp"
-            android:orientation="horizontal">
-
-            <Button
-                android:id="@+id/btnLimpar"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:onClick="limparFormulario"
-                android:text="@string/btn_limpar" />
-
-            <Button
-                android:id="@+id/btnSalvar"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_weight="1"
-                android:onClick="salvarFormulario"
-                android:text="@string/btn_salvar" />
-        </LinearLayout>
 
     </LinearLayout>
 

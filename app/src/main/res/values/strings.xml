@@ -3,7 +3,6 @@
 
     <string name="btn_cadastrar_veiculo">Cadastrar Veículo</string>
 
-    <string name="titulo_cadastro_veiculo">Cadastro de Veículo</string>
     <string name="label_apelido">Apelido</string>
     <string name="label_modelo">Modelo</string>
     <string name="label_km_atual">Km atual</string>
@@ -13,8 +12,6 @@
     <string name="radio_etanol">Etanol</string>
     <string name="radio_diesel">Diesel</string>
     <string name="checkbox_em_uso">Veículo em uso atualmente</string>
-    <string name="btn_limpar">Limpar</string>
-    <string name="btn_salvar">Salvar</string>
 
     <string name="toast_formulario_limpo">Formulário limpo</string>
     <string name="erro_apelido_vazio">Informe o apelido do veículo</string>
@@ -46,4 +43,27 @@
 
     <string name="manutencao_de_tipo">Manutenção de tipo \"</string>
     <string name="foi_clicada">\" foi clicada!</string>
+
+    <string name="titulo_veiculos">Veículos</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="salvar">Salvar</string>
+    <string name="limpar">Limpar</string>
+    <string name="novo_veiculo">Novo Veículo</string>
+    <string name="editar_veiculo">Editar Veículo</string>
+    <string name="apelido_valor">"Apelido: "</string>
+    <string name="modelo_valor">"Modelo: "</string>
+    <string name="marca_valor">"Marca: "</string>
+    <string name="km_atual_valor">"Km atual: "</string>
+    <string name="combustivel_valor">"Combustível: "</string>
+    <string name="em_uso_valor">"Em uso: "</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="erro_km_invalido">Quilometragem inválida</string>
+    <string name="logo_do_app">Logo do app</string>
+    <string name="descricao_app">App de Controle de Manutenção e Abastecimento de Veículo</string>
+    <string name="autoria">Autor: Lucas Bruck\nCurso: Engenharia de Software\nE-mail: bruck@alunos.utfpr.edu.br</string>
+    <string name="universidade">Universidade Tecnológica Federal do Paraná (UTFPR)</string>
 </resources>
